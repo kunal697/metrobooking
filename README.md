@@ -1,4 +1,4 @@
-# Pune Metro Ticket Information
+# Pune Metro System 
 
 This basic C++ program provides essential features for quickly accessing the Pune Metro schedule, exploring available stations, and calculating fares. It's designed to serve as a straightforward tool for commuters who need quick access to these crucial pieces of information.
 
