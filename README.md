@@ -1,30 +1,28 @@
- # Pune Metro Ticket Booking System
+# Pune Metro Ticket Information
 
-Welcome to the Pune Metro Ticket Booking System project! This C++ program offers a straightforward solution for booking metro tickets, checking schedules, and exploring stations within the Pune Metro network. The project aims to simplify the process of metro travel for users by providing an easy-to-use interface.
+This basic C++ program provides essential features for quickly accessing the Pune Metro schedule, exploring available stations, and calculating fares. It's designed to serve as a straightforward tool for commuters who need quick access to these crucial pieces of information.
 
-## Introduction
+## Features
 
-This project is designed to provide a seamless experience for commuters using the Pune Metro. With a user-friendly menu, users can quickly navigate through different options to achieve their desired tasks:
+- **Timetable:** Access the metro schedule to know when the trains are operational, along with their frequencies.
 
-- **Booking Tickets:** Easily book tickets for various routes and journey types, whether it's a one-way or return trip.
+- **Stations:** Explore the list of available metro stations, simplifying route planning.
 
-- **Timetable Information:** Access the metro timetable to find out when trains are running, their frequencies, and operational hours.
-
-- **Station Exploration:** Discover the available metro stations and gather essential information about their locations.
-
-- **Contact Us:** Reach out for assistance or inquiries through provided contact details.
+- **Fare Calculation:** Calculate the fare based on the selected journey, ticket quantity, and journey type.
 
 ## Getting Started
 
-To run the program locally on your machine, follow the instructions in the [Getting Started](#getting-started) section of this README.
+To run the program on your local machine, follow the instructions in the [Getting Started](#getting-started) section of this README.
 
 ## Contributions and Feedback
 
-Contributions, feedback, and suggestions are always welcome! If you encounter any issues or have ideas for improvements, feel free to [open an issue](https://github.com/yourusername/pune-metro-ticket-booking/issues).
+Contributions, feedback, and suggestions are welcome! If you have any ideas for improvements or find any issues, please [open an issue](https://github.com/yourusername/pune-metro-ticket-info/issues).
 
 ## Contact
 
-For further inquiries or assistance, you can reach us at:
-- Email: kunalbodke25@gmail.com
- 
+For any inquiries or assistance, feel free to reach out:
+- Email: kunalbodke@gmail.com
+
+This project aims to provide essential information for Pune Metro commuters in a simple and accessible manner.
+
  
