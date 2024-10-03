@@ -15,7 +15,7 @@ class book{
      void menu();
 };
   
-// fixed the issue #6 i hope it will work
+// fixed this issues
         
 
 void book::menu()
