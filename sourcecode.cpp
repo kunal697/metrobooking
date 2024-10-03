@@ -15,8 +15,7 @@ class book{
      void menu();
 };
   
-//   this is new comment
-// this is second comment
+
         
 
 void book::menu()
